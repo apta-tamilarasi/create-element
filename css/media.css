@@ -1,0 +1,38 @@
+@media(min-width:320px){
+    .card-row{
+        flex-wrap: wrap;
+
+    }
+
+    .card-col{
+        width:100%;
+    }
+}
+
+@media(min-width:660px){
+    .card-row{
+        display:flex;
+        flex-wrap: wrap;
+        
+    }
+
+    
+    .card-col{
+        width:50%;
+    }
+}
+
+
+@media(min-width:1000px){
+    .card-row{
+        display:flex;
+        flex-wrap: wrap;
+        
+        
+    }
+
+    
+    .card-col{
+        width:33%;
+    }
+}

@@ -1,0 +1,51 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+
+h2{
+    color:purple;
+    font-family: lucida handwriting;
+    text-align:center;
+}
+
+h1{
+    text-align: center;
+    width:100%;
+    padding:20px 0px 20px 0px;
+    color:blue
+
+
+}
+
+p{
+    padding:10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.card-section{
+    background-color: pink;
+}
+
+
+/*.card-row{
+    display:flex;
+    flex-wrap: wrap;
+}*/
+.card-col{
+   /* width:33%;*/
+    border: 1px solid purple;
+}
+.card-card{
+    padding:20px;
+    
+}
+
+img{
+    height:300px;
+    width:100%;
+}
+
+
